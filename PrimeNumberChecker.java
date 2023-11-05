@@ -1,6 +1,5 @@
 package com.study;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class PrimeNumberChecker {
